@@ -1,0 +1,6 @@
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/Vrishank140607/Lab2
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/Vrishank140607/lab2.git
